@@ -1,0 +1,6 @@
+/* App.css */
+.title-button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,0 +1,13 @@
+### Update video
+PATCH http://localhost:3000/api
+Content-Type: application/json
+
+{
+  "id": "f94e019c-e307-474c-a0ad-d24ba612a222",
+  "important": true,
+  "date": "5/4/2024",
+  "comment": "Probando"
+}
+
+### Borrar video
+DELETE http://localhost:3000/api/f94e019c-e307-474c-a0ad-d24ba612a222
