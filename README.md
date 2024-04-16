@@ -50,7 +50,7 @@ El servidor expone dos endpoints:
 
 ## Tecnologías Utilizadas
 
-**Express:** Para el desarrollo del servidor backend.
-**React:** Para la creación de la interfaz de usuario dinámica.
-**axios:** Para realizar solicitudes HTTP tanto en el servidor como en el cliente.
-**dotenv:** Para la gestión de variables de entorno.
+- **Express:** Para el desarrollo del servidor backend.
+- **React:** Para la creación de la interfaz de usuario dinámica.
+- **axios:** Para realizar solicitudes HTTP tanto en el servidor como en el cliente.
+- **dotenv:** Para la gestión de variables de entorno.
