@@ -2,6 +2,10 @@
 
 Esta aplicación consta de un servidor Express en el lado del backend y una interfaz de usuario desarrollada con React en el frontend. Permite la gestión de una lista de clases, con funcionalidades para actualizar la información de cada clase, marcarlas como importantes y agregar comentarios.
 
+## Captura de pantalla UI
+
+![Imagen de captura de pantalla de la ui](./captura.png)
+
 ## Instalación
 
 1. Clona este repositorio en tu máquina local.
@@ -15,7 +19,7 @@ npm run install-services
 
 ## Configuración del Servidor
 
-- En la carpeta data del servidor, crea un archivo llamado mappedClass.json. Este archivo debe contener un array vacío que será utilizado por el servidor para almacenar la información de las clases.
+- Crea una carpeta **data** en el directorio `/backend`, dentro un archivo llamado mappedClass.json. Este archivo debe contener un array vacío que será utilizado por el servidor para pushear la información de las clases.
 
 ## Ejecución
 
